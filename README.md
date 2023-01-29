@@ -11,4 +11,4 @@
 ## 参考資料
 
 READMEのサンプル
-- [BORDEAUX WINE VINTAGE](https://www.liquidasset.com/orley.htm)（ワイン方程式について）
+- [BORDEAUX WINE VINTAGE](https://tenmei.cocolog-nifty.com/matcha/2014/07/post-746c.html)（ワイン方程式について）
